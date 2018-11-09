@@ -1,0 +1,5 @@
+ejb/jsontest.class
+ejb/MessageSenderQueue.class
+ejb/MessageSender.class
+ejb/MessageReceiverSync.class
+ejb/MessageReceiverSyncQueue.class

@@ -1,0 +1,8 @@
+ejb/MessageSenderLocal.class
+common/UserModel.class
+ejb/MessageReceiverSyncQueueLocal.class
+ejb/MessageListener.class
+ejb/MessageReceiverSyncLocal.class
+ejb/MessageSenderQueueLocal.class
+common/Role.class
+ejb/jsontestinterface.class

@@ -1,0 +1,4 @@
+rest/WatcherAuthInterface.class
+JmsSender.class
+rest/WatcherAuthMessage.class
+WatcherAuthActivator.class
